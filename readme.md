@@ -96,10 +96,6 @@ It integrates both **static** and **dynamic analysis** techniques to extract dee
 ### Installation Steps
 
 ```bash
-# Clone repository (if available)
-# git clone https://github.com/yourusername/flamemaster-pro.git
-# cd flamemaster-pro
-
 # Core dependencies
 pip install androguard rich colorama jinja2 scapy pdfminer.six python-docx lief
 
