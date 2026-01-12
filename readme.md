@@ -1,4 +1,3 @@
-````markdown
 # FlameMaster Pro — Multi-Platform Dynamic Analysis Tool
 
 ![FlameMaster Pro](https://img.shields.io/badge/FlameMaster-Pro-red)
@@ -427,5 +426,5 @@ This tool is intended **only** for educational and authorized security testing.
 The author is **not responsible** for misuse or damage caused by this software.
 Always obtain proper authorization before analysis.
 
-```
+
 ```
